@@ -4,6 +4,7 @@
   "main": "api/server.js",
   "scripts": {
     "dev": "npx nodemon api/server.js",
+    "build": "echo Build realizado com sucesso",
     "postinstall": "prisma generate"
   },
   "keywords": [],
